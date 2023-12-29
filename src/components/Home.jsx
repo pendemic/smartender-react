@@ -12,9 +12,9 @@ function Home() {
             <Grid item xl={9} lg={9} md={9}>
                 <div style={{backgroundImage: `url(${background})`, backgroundPosition: "center", backgroundSize: width, position: "absolute", backgroundRepeat: "no-repeat"}}>
                     <div style={{fontFamily: 'Anton, sans-serif', fontFamily: 'Noto Serif Display, serif', height: height, width: width, color: "white"}}>
-                        <div style={{marginTop: height * .1, marginLeft: width * .1, fontWeight: 'bold', fontSize: 48}}>Smartender</div>
-                        <div style={{marginTop: height * .1, marginLeft: width * .07, fontSize: 90, width: "25%"}}>Randomize your night</div>
-                        <div style={{marginTop: height * .1, marginLeft: width * .07, fontSize: 48, width: "30%"}}>Let Smartender choose your next drink.</div>
+                        <div style={{marginTop: height * .1, marginLeft: width * .1, fontWeight: 'bold', fontSize: 36}}>Smartender</div>
+                        <div style={{marginTop: height * .1, marginLeft: width * .07, fontSize: 70, width: "25%"}}>Randomize your night</div>
+                        <div style={{marginTop: height * .1, marginLeft: width * .07, fontSize: 36, width: "30%"}}>Let Smartender choose your next drink.</div>
                     </div>
                 </div>
             </Grid>
